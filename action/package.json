@@ -13,7 +13,7 @@
     "type": "git",
     "url": "git+https://github.com/ArchitektApx/install-qt-action.git"
   },
-  "author": "jurplel",
+  "author": "ArchitektApx",
   "license": "MIT",
   "dependencies": {
     "@actions/cache": "^3.2.4",
